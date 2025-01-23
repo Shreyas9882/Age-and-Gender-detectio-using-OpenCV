@@ -40,6 +40,16 @@ The system supports two modes of operation:
 
 2. **Webcam Mode**: The system uses a live webcam feed to detect faces in real-time, providing predictions for each frame.
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/53a5bf8d-b61c-4cbc-8fb2-fa580aaa7183" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/50b1e64f-79c6-443c-b063-4bf76f969782" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b108c385-6dea-4b51-8a20-5345fcf5975e" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1f067041-cf0f-43fb-a1b5-b16c70203100" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/e26247d3-6945-4e95-a1e1-8caaf210572a" />
+
 **Steps to Run the System:**
 
 1. Clone the repository and navigate to the project directory.
