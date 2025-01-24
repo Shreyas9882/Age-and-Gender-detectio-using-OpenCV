@@ -1,13 +1,13 @@
+# Age-and-Gender-Prediction-Using-Deep-Learning
 
 
 
-
-#### **Introduction to Deep Learning**
+## Introduction to Deep Learning
 Deep learning has revolutionized many fields, including computer vision, by enabling systems to understand and process images and videos with remarkable accuracy. This project uses deep learning to build a system capable of detecting human faces in images or videos and predicting their approximate age and gender.
 
 
 
-#### **Deep Learning Models Used**
+## Deep Learning Models used
 This system leverages the following pre-trained deep learning models for its functionality:
 
 1. **Face Detection Model**: Uses OpenCV's DNN module with the `opencv_face_detector.pb` and `opencv_face_detector.pbtxt` files to locate faces in images and videos.
@@ -18,7 +18,7 @@ This system leverages the following pre-trained deep learning models for its fun
 
 
 
-#### **System Methodology**
+## Key Features
 The methodology behind this system involves the following steps:
 
 1. **Input Processing**: Accepts input as an image file or live webcam feed.
@@ -33,7 +33,7 @@ The methodology behind this system involves the following steps:
 
 
 
-#### **System Execution**
+## Project Implementation
 The system supports two modes of operation:
 
 1. **Photo Upload Mode**: Users can upload an image, and the system will process the photo to detect faces and predict age and gender.
@@ -50,7 +50,7 @@ The system supports two modes of operation:
 
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/e26247d3-6945-4e95-a1e1-8caaf210572a" />
 
-**Steps to Run the System:**
+## How to run the program
 
 1. Clone the repository and navigate to the project directory.
 2. Ensure all dependencies are installed:
